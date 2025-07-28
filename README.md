@@ -1,5 +1,5 @@
 👋 Olá, sou Juan Tápias!
-Sou apaixonado(a) por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no meu GitHub, você encontrará projetos pessoais, estudos em diferentes áreas da programação.
+Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no meu GitHub, você encontrará projetos pessoais, estudos em diferentes áreas da programação.
 
 🚀 Tecnologias e Ferramentas em estudo:
 
