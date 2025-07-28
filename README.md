@@ -3,13 +3,7 @@ Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no 
 
 🚀 Tecnologias e Ferramentas em estudo:
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-</div>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /> </p>
 
 📚 Em constante evolução:
 
@@ -21,7 +15,25 @@ LinkedIn: www.linkedin.com/in/juantapias
 
 Email: juantapiasprf@gmail.com
 
+-------------------------------------------------------------------------------------------------------------------------
 
+Presentation in English
+
+👋 Hello, I'm Juan Tápias!
+I'm passionate about technology, development, and continuous learning. Here on my GitHub, you'll find personal projects and studies in different areas of programming.
+
+🚀 Technologies and Tools I'm Learning:
+
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /> </p>
+
+📚 Constantly Evolving:
+I'm currently studying fullstack development, always aiming to improve and share knowledge.
+
+🌐 Connect with Me:
+
+LinkedIn: www.linkedin.com/in/juantapias
+
+📧 Email: juantapiasprf@gmail.com
 <!--
 **juanptapias/juanptapias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
