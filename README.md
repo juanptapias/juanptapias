@@ -2,6 +2,7 @@
 Sou apaixonado(a) por tecnologia, desenvolvimento e aprendizado contínuo. Aqui no meu GitHub, você encontrará projetos pessoais, estudos em diferentes áreas da programação.
 
 🚀 Tecnologias e Ferramentas em estudo:
+
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -10,6 +11,7 @@ Sou apaixonado(a) por tecnologia, desenvolvimento e aprendizado contínuo. Aqui 
 </div>
 
 📚 Em constante evolução:
+
 Atualmente estou estudando desenvolvimento fullstack, buscando sempre me aprimorar e compartilhar conhecimento.
 
 🌐 Conecte-se comigo:
